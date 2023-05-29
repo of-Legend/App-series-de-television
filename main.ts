@@ -233,7 +233,7 @@ class Serie {
   const director2 = new Director("Laura Montenegro", "LauraMontenegro.jpg", "  Laura Montenegro es una directora de cine talentosa y apasionada que ha dejado una marca significativa en la industria cinematográfica. Con un enfoque único y una visión artística distintiva, ha cautivado a audiencias de todo el mundo con sus películas innovadoras y emocionalmente impactantes.");
   
   // Crear nuevos actores
-  const actor1 = new Actor("Lucas Anderson", "_lucas_anderson.jpg", "Lucas Anderson es un talentoso actor de cine con una presencia magnética en la pantalla. Su versatilidad y habilidad para sumergirse en diversos personajes lo han convertido en uno de los actores más solicitados de la industria.");
+  const actor1 = new Actor("Lucas Anderson", "_lucas_anderson.jpg", "Lucas Anderson un talentoso actor de cine con una presencia magnética en la pantalla. Su versatilidad y habilidad para sumergirse en diversos personajes lo han convertido en uno de los actores más solicitados de la industria.");
   const actor2 = new Actor("Isabella Santiago", "foto_actor2.jpg", "Isabella Santiago es una talentosa actriz de cine con una presencia cautivadora en la pantalla. Su belleza natural y su carisma magnético han capturado la atención de audiencias de todo el mundo.");
   
   // Crear nuevos episodios
