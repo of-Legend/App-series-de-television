@@ -234,7 +234,7 @@ class Serie {
   
   // Crear nuevos actores
   const actor1 = new Actor("Lucas Anderson", "_lucas_anderson.jpg", "Lucas Anderson un talentoso actor de cine con una presencia magnética en la pantalla. Su versatilidad y habilidad para sumergirse en diversos personajes lo han convertido en uno de los actores más solicitados de la industria.");
-  const actor2 = new Actor("Isabella Santiago", "foto_actor2.jpg", "Isabella Santiago es una talentosa actriz de cine con una presencia cautivadora en la pantalla. Su belleza natural y su carisma magnético han capturado la atención de audiencias de todo el mundo.");
+  const actor2 = new Actor("Isabella Santiago", "foto_actor2.jpg", "Isabella Santiago  una talentosa actriz de cine con una presencia cautivadora en la pantalla. Su belleza natural y su carisma magnético han capturado la atención de audiencias de todo el mundo.");
   
   // Crear nuevos episodios
   const episodio1 = new Episodio("Episodio 1: El Enigma de la Oscuridad", "En este emocionante episodio de la serie, nuestros protagonistas se enfrentan a un misterio envuelto en sombras. La ciudad se encuentra sumida en una oscuridad inusual y perturbadora, sin ninguna explicación aparente. A medida que investigan, descubren que un grupo de villanos ha desatado un poderoso artefacto capaz de sumergir a la ciudad en una eterna noche. Nuestros héroes deben desentrañar el enigma detrás de este artefacto y encontrar una manera de restaurar la luz y la esperanza en la ciudad.", " 45 minutos");
